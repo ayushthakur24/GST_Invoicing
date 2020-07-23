@@ -1,0 +1,300 @@
+.header{
+    top:0;
+    height: 20px;
+    width:100%;
+    background-color:white; 
+  
+  }
+.img1{
+    top:0;
+    background-color:white;
+    width: 100px;
+    height: 100px;
+    float:left;
+  }
+ .header1
+{ 
+    background-color:white;
+    top:0;
+    float:right;
+    padding-right:975px;
+    font-family: impact;
+    color:black;
+}
+
+ .one{
+    background-color:rgb(33,33,33);
+    position: relative;
+    top:80px;  
+    height:700px;
+}
+.para1
+{
+    color:white;
+    font-size: 55px;
+    padding-left: 200px;
+    padding-top: 150px;
+    
+}
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding-top:60px;
+    padding-right: 200px;
+    overflow: hidden;
+    background-color:rgb(33,33,33);
+}
+
+li {
+    float:right;
+     border-top: 1px solid #fff;
+     border-bottom: 1px solid #fff;
+     border-right:1px solid #fff;
+     border-left:1px solid #fff;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding: 14px 30px;
+    text-decoration: none;
+}
+
+li a:hover {
+    color:orange;
+}
+#two
+{
+    font-size: 20px;
+    line-height: 1.8;
+    padding-top:100px;
+    padding-left:300px; 
+}
+.three
+{
+    padding-top:150px; 
+    width:100%;
+    height: auto;
+}
+#four
+{
+    padding-top: 100px;
+    padding-left:100px;
+}
+.header3{
+    color: lightsalmon;
+    font-size:25px;
+}
+.five{
+    padding-top:20px;
+    padding-bottom:20px;
+}
+.header4{
+    font-size: 25px;
+    line-height:1.8;
+    padding-left: 100px;
+    color: black;
+    padding-top:20px;
+    padding-bottom: 20px;
+    float:left;
+
+}
+.para2{
+    line-height:1.8;
+    padding-bottom:0px; 
+    float:right;
+    padding-right:190px;
+}
+.six{
+    padding-top:10px;
+    padding-bottom:10px;
+}
+.header5
+{
+    font-size: 25px;
+    line-height:1.8;
+    padding-left: 100px;
+    color: black;
+    padding-top:20px;
+    padding-bottom: 20px;
+    float:left;
+}
+.para3{
+    line-height:1.8;
+    padding-bottom:0px; 
+    float:right;
+    padding-right:190px;
+    
+}
+.seven
+{
+    padding-top:10px;
+    padding-bottom:10px;
+}
+.header6
+{
+    font-size: 25px;
+    line-height:1.8;
+    padding-left: 100px;
+    color: black;
+    padding-top:20px;
+    padding-bottom: 20px;
+    float:left;
+}
+.para4
+{
+    line-height:1.8;
+    padding-bottom:0px; 
+    float:right;
+    padding-right:190px;
+}
+#tab{
+    
+        width:100%;
+        height:350px;    
+        background-color:rgb(33,33,33);
+        color: white;
+        position:relative;
+        top:150px;
+
+        
+}
+ table {
+    border-collapse: collapse;
+    width:70%;
+    height:200px;
+    padding-right: 100px;
+    position:relative;
+    bottom:60px;
+}      
+
+ td, th {   
+ 
+    color: white;
+	padding:15px;
+    height:10px;
+    border: 1px solid #ddd;
+    text-align: left;
+ }
+ 
+ .intro{
+     
+     background-color:white;
+     position:relative;
+     height:150px;
+     width:100%;
+     top:50px;
+ }
+
+ .regis{
+     
+     font-size:30px;
+     color:black;
+     text-decoration:underline;
+     float:left;
+     padding-left:450px;
+    
+}
+
+.info{
+    
+       position:relative;
+       top:550px;
+
+}
+.heading4{
+    
+    text-decoration: underline;
+}
+.back-to-top-site
+{
+    color:lightskyblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+	/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 55%; /* Full width */
+    height: 50%; /* Full height */
+    
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+    
+}
+
+/* Modal Content/Box */
+.modal-content {
+    background-color: #fefefe;
+    margin: 8% auto 0% auto; /* 5% from the top, 15% from the bottom and centered */
+    border: 1px solid #888;
+    width: 75%; /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button (x) */
+.close {
+    position: absolute;
+    right: 25px;
+    top: 0;
+    color: #000;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: red;
+    cursor: pointer;
+}
+
+/* Add Zoom Animation */
+.animate {
+    -webkit-animation: animatezoom 0.6s;
+    animation: animatezoom 0.6s
+}
+
+@-webkit-keyframes animatezoom {
+    from {-webkit-transform: scale(0)} 
+    to {-webkit-transform: scale(1)}
+}
+    
+@keyframes animatezoom {
+    from {transform: scale(0)} 
+    to {transform: scale(1)}
+}
+
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+    span.psw {
+       display: block;
+       float: none;
+    }
+    .cancelbtn {
+       width: 50%;
+    }
+}
+
+
+
+
+
+
+
+

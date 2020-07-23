@@ -1,0 +1,457 @@
+.vertical-menu {
+    width:25%;
+
+	float:left;
+	
+}	
+
+.vertical-menu a {
+  
+    color: black; 
+    display: block; 
+    padding: 15px; 
+    text-decoration: none; 
+	}
+
+.vertical-menu a:hover {
+    
+	background-color:orange; 
+
+	width:25%;
+	
+	}
+
+h2{
+	
+color:orange;
+	
+	}
+
+.header1{
+	
+
+text-decoration:underline;
+
+margin-left:15px;
+
+font-family:impact;
+
+font-size:30px;
+
+padding-left:550px;
+
+}
+
+
+
+#header{
+	
+ top:0;
+   
+ width:100%;
+ 
+ height:60px;   
+ 
+ background:white;
+ 
+}
+
+
+
+
+3-btn,.w3-button{border:none;display:inline-block;outline:0;padding:40px 40px;vertical-align:middle;overflow:hidden;text-decoration:none;color:inherit;background-color:inherit;text-align:center;cursor:pointer;white-space:nowrap;size:100px;}
+
+.w3-disabled,.w3-btn:disabled,.w3-button:disabled{cursor:not-allowed;opacity:0.3}.w3-disabled *,:disabled *{pointer-events:none}
+
+.w3-tooltip,.w3-display-container{position:relative;float:right;width:65%; }.w3-tooltip .w3-text{display:none}.w3-tooltip:hover .w3-text{display:inline-block}
+
+.w3-display-topleft{position:absolute;left:20px;top:50px;font-weight:bold;color:black;font-size:35px;}
+
+.w3-display-topright{position:absolute;right:0;top:0}
+
+.w3-display-bottomleft{position:absolute;left:0;bottom:0}
+
+.w3-display-bottomright{position:absolute;right:30px;bottom:30px;font-size:25px;color:white; font-family:italic;}
+
+.w3-display-middle{position:absolute;top:110px;left:320px;font-size:25px;color:white;transform:translate(-50%,-50%);}
+
+.w3-display-left{position:absolute;top:50%;left:0%;transform:translate(0%,-50%);-ms-transform:translate(-0%,-50%)}
+
+.w3-display-right{position:absolute;top:50%;right:0%;transform:translate(0%,-50%);-ms-transform:translate(0%,-50%)}
+
+.w3-display-topmiddle{position:absolute;left:140px;top:120px;background-color:black; font-family:impact;
+
+font-size: 24px;
+
+padding: 12px 26px;
+
+width:40%;
+
+text-align:center;
+
+color:white;transform:translate(-50%,0%);-ms-transform:translate(-50%,0%)}
+
+.w3-display-bottommiddle{position:absolute;left:50%;bottom:0;transform:translate(-50%,0%);-ms-transform:translate(-50%,0%)}
+
+
+.img1{
+		
+		
+		width:100%; 
+		
+		height:250px;
+		
+	
+	}
+	
+	h4{
+		
+		color:orange;
+		
+		font-size:20px;
+	}
+		
+	#footer 
+
+{
+    bottom:0;
+   
+    width:100%;
+ }
+	
+	
+#t01
+
+{
+
+width:100%;
+
+text-align:left;
+
+font-size:20px;
+
+padding-bottom:30px;
+
+padding-top:20px;
+
+
+}
+
+.t3
+{
+
+	
+	float:right;
+	
+	width:30%;
+	
+	padding-right:70px;
+	
+	
+	
+}
+
+.blue{
+	
+background-color: #4CAF50;
+
+font-size: 15px;
+
+width: 25%;
+
+text-align:centre;
+
+color:white;
+
+}
+
+.foot1{
+	
+	font-size:20px;
+	
+	color:blue;
+}
+
+.foot2{
+	
+	font-size:20px;
+}
+
+
+
+
+
+#locations
+{
+	
+	width:100%;
+	
+    float:left;
+	
+	font-size:20px;
+	
+	padding-top:40px;
+	
+	}
+
+	
+.loc1
+{
+ 
+	float:left;
+	
+	color: black;
+	
+	
+}
+	
+	
+	
+	.menu1{
+		
+		font-family:courier;
+		
+	}
+	
+	.pro{
+	
+	color:black;
+	
+	font-size:20px;
+	
+	font-family:helvetica;
+	
+}	
+
+h2{
+	
+	color:black;
+	
+	font-family:verdana;
+
+  
+	
+	}
+
+
+
+
+
+.header3{
+	
+	font-family:helvetica;
+}
+
+.header4{
+	
+	font-size:22px;
+	
+	font-family:courier;
+
+	color:black;
+	
+	
+	}
+	
+	
+	.text{
+		
+		font-size:20px;
+		
+		color:black;
+		
+		font-family:garamond;
+	}
+	
+	
+	.display-hotel{
+		
+		float:left;
+		
+		width:100%;
+	}
+	
+	
+	.display-image
+	
+	{
+	position:relative;	
+	
+	float:left;
+	
+	width:100%; 
+	
+
+}
+
+
+
+.t6{
+	
+	width:100%;
+	
+	height:10%;
+	
+	background-color:black;
+}
+	
+	.foot1{
+	
+	font-size:15px;
+	
+	color:grey;
+	
+	text-decoration:none;
+	
+    font-family:Lucida Console;
+	
+	float:right;
+	
+	padding-top:20px;
+}
+
+.foot2{
+	
+	font-size:15px;
+	
+	color:grey;
+	
+	padding-top:20px;
+	
+	padding-left:10px;
+	
+	float:left;
+	
+    font-family:Lucida Console;
+}
+
+
+
+	.text1{
+		
+		font-size:20px;
+		
+		font-family:garamond;
+	}
+	
+	
+	/* Full-width input fields */
+input[type=text], input[type=password] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 13px 25px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width:330px;
+}
+
+
+button:hover {
+    opacity: 0.8;
+}
+
+/* Extra styles for the cancel button */
+.cancelbtn {
+    width: 325px;
+    padding: 13px 25px;
+    background-color: #f44336;
+   
+}
+
+/* Center the image and position the close button */
+.imgcontainer {
+    text-align: center;
+    margin: 19px 0 10px 0;
+    position: relative;
+}
+
+img.avatar {
+    width: 30%;
+    border-radius: 40%;
+}
+
+.container {
+    padding: 8px;
+}
+
+span.psw {
+    float: center;
+    padding-top: 16px;
+}
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: relative; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 70%; /* Full width */
+    height: 96%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+    
+}
+
+/* Modal Content/Box */
+.modal-content {
+    background-color: #fefefe;
+    margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+    border: 1px solid #888;
+    width: 75%; /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button (x) */
+.close {
+    position: absolute;
+    right: 25px;
+    top: 0;
+    color: #000;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: red;
+    cursor: pointer;
+}
+
+/* Add Zoom Animation */
+.animate {
+    -webkit-animation: animatezoom 0.6s;
+    animation: animatezoom 0.6s
+}
+
+@-webkit-keyframes animatezoom {
+    from {-webkit-transform: scale(0)} 
+    to {-webkit-transform: scale(1)}
+}
+    
+@keyframes animatezoom {
+    from {transform: scale(0)} 
+    to {transform: scale(1)}
+}
+
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+    span.psw {
+       display: block;
+       float: none;
+    }
+    .cancelbtn {
+       width: 50%;
+    }
+}
